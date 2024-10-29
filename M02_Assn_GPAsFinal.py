@@ -1,4 +1,7 @@
-
+# Author: Carey Armstrong
+# Date: 29 October 2024
+# Version: 3.0
+# Purpose: Enter student name & GPA and determine honor roll status
 # Initialize Student class
 class Student:
     def __init__(self, fname, lname):
